@@ -21,5 +21,11 @@ Um simples e prático **sorteador de amigo secreto**, desenvolvido como parte do
 3.  **Adicione os nomes** dos participantes, um por vez.
     
 4.  Clique em **"Sortear Amigo"** e veja o resultado!
+
+## O projeto está disponível no GitHub Pages:  
+ ➡️ **[Amigo Secreto - Clique aqui para acessar](https://williamjunqueira42.github.io/Amigo-secreto/)**
+ 
  ## 👨‍💻 Autor
   Feito por [ WIlliam Junqueira](https://github.com/Williamjunqueira42)
+
+  
